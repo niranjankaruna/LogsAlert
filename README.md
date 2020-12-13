@@ -28,6 +28,6 @@ Used : apache log4j2 <br/><br/>
 Proper use of Object Oriented programming <br/>
 Used : Abstraction , Encapsulation<br/><br/>
 Unit test coverage<br/>
-jUnit Test cases result 74% of code coverage <br/><br/>
+jUnit Test cases results 74% of code coverage <br/><br/>
 Multi-threaded solution<br/>
 Not implemented <br/><br/>
