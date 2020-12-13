@@ -4,7 +4,7 @@
 ### Step 1
 Clone the project into workspace
 ### Step 2
-As it is Maven build, run below command, it will create snapshot with dependencies.
+As it is a Maven build, run below command, it will create snapshot with dependencies.
 ```
 mvn clean package
 ```
