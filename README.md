@@ -1,5 +1,6 @@
 # LogsAlert
 
+## Steps to run the Application
 ### Step 1
 Clone the project into workspace
 ### Step 2
@@ -17,6 +18,7 @@ java -jar target/credit-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 It will prompt for logfile.txt path, paste complete path for the file.<br/>
 It will log the details in command prompt.
 
+<br/><br/>
 ## Requirements:
 All the basic functionalities mentioned in the document is completed. <br/><br/>
 
